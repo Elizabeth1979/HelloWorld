@@ -67,4 +67,8 @@
   #root, #__next {
     isolation: isolate;
   }
+
+  body {
+    background-color: antiquewhite;
+  }
   
